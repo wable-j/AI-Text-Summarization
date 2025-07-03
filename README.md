@@ -6,7 +6,6 @@ A powerful AI-based text summarization application that helps condense long docu
 
 This project provides an interactive web application for generating summaries from various input sources using state-of-the-art natural language processing techniques. It features a React-based frontend and a Python FastAPI backend that leverages Hugging Face Transformers models for summarization.
 
-![AI Text Summarization Interface](https://placeholder-for-screenshot.png)
 
 ## Features
 
